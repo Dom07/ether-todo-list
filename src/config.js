@@ -1,6 +1,6 @@
 export const TODO_LIST_ADDRESS = '0x561093cdf5E80B178B5086007ca1d5a3A8db6418'
 
-export const TODO_LIST_ABI =  [
+export const TODO_LIST_ABI = [
   {
     "inputs": [],
     "payable": false,
